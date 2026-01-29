@@ -11,22 +11,41 @@
  <img  height="280rem" alt="GIF" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" />
  </p>
 
-## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25">  <b>About Me</b>
-I am Al-Amin, a student and tech enthusiast with a passion for software development. Constantly exploring new technologies and embracing challenges, I thrive in the dynamic world of technology. With a focus on collaboration and community support, I strive to inspire others to push their boundaries and pursue greatness. Let's create innovative solutions together!
+<br> 
 
-<br>
+## 🇺🇸 English
 
-  
+Hi! I’m the creator behind **IXTIVA Studio**, a digital studio focused on crafting elegant and meaningful web invitations for special events.
+
+I’m passionate about technology, design, and building clean, functional, and visually impactful web experiences. I enjoy turning ideas into digital solutions that feel intentional and memorable from the very first click.
+
+I believe technology is not just about code, but about creating the **first impression** that connects with people.
+
+Let’s build thoughtful digital experiences together.
+
+- 🔭 Currently working on creative web projects for events  
+- 👯 Open to collaborating on frontend, web design, and creative tech projects  
+- 🌱 Learning more about modern web technologies and UI/UX  
+- 💬 Feel free to ask me anything — happy to help when I can 😉
+
+---
 
 
- -  🔭 I’m currently working on something cool 😉
+## 🇲🇽 Español
 
-- 👯 I’m looking forward to collaborate on python projects.
+¡Hola! Soy el creador detrás de **IXTIVA Studio**, un estudio digital enfocado en diseñar invitaciones web elegantes y significativas para eventos especiales.
 
-- 🌱 Learning about Computer Vision and Machine Learning stuff
+Me apasionan la tecnología, el diseño y la creación de experiencias digitales limpias, funcionales y visualmente impactantes. Disfruto transformar ideas en soluciones digitales que transmitan intención desde el primer clic.
 
+Creo que la tecnología no es solo código, sino la **primera impresión** que conecta con las personas.
 
-- 💬 Ask me about anything, I am happy to help, only if the ball is in my court!😉
+Construyamos experiencias digitales con propósito.
+
+- 🔭 Actualmente trabajando en proyectos web creativos para eventos  
+- 👯 Abierto a colaborar en proyectos de frontend, diseño web y tecnología creativa  
+- 🌱 Aprendiendo más sobre tecnologías web modernas y UI/UX  
+- 💬 Pregúntame lo que quieras, con gusto ayudo cuando está en mis manos 😉
+
 
 
 <br>
@@ -40,11 +59,11 @@ I am Al-Amin, a student and tech enthusiast with a passion for software developm
 <p align="center"><!-----Social Accounts------>
 
 <p align="center">
- <a href="">
+ <a href="https://github.com/ixtiva">
  <img border="0" alt="Alamin's Portfolio" src="https://img.icons8.com/external-itim2101-lineal-color-itim2101/40/000000/external-resume-business-recruitment-itim2101-lineal-color-itim2101.png">
  </a>
 
- <a href="https://www.linkedin.com/in/alamin20/">
+ <a href="https://www.linkedin.com">
  
  <img border="0" alt="Hrugved's LinkedIn" src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"/>
  </a>
@@ -57,44 +76,16 @@ I am Al-Amin, a student and tech enthusiast with a passion for software developm
  <img border="0" alt="Hrugved's IG" src="https://img.icons8.com/doodle/38/000000/instagram--v1.png"/>
  </a>
 
- <a href="https://t.me/alamin2me">
+ <a href="https://t.me/">
  <img border="0" alt="Hrugved's TG" src="https://img.icons8.com/doodle/40/000000/telegram-app.png"/>
  </a>
 
- <a href="https://discord.com/invite/5RmW6dZKpe6">
+ <a href="https://discord.com">
  <img border="0" alt="HrugVed (He/Him)#8131" src="https://img.icons8.com/fluent/42/000000/discord-logo.png"/>
  </a>
- <a href="mailto:alamin.contact24@gmail.com">
+ <a href="mailto:">
  <img border="0" alt="Hrugved's Mail" src="https://img.icons8.com/doodle/38/000000/gmail-new.png"/>
  </a>
-</p>
-
-<br>
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25">  <b>Competitive Programming</b>
-<br>
-
-
-<p align="left"> 
-  <a href="https://www.hackerrank.com/Alamin972731?hr_r=1" target="_blank"> 
-    <img alt="HackerRank" src="https://img.shields.io/badge/HackerRank-2EC866?logo=HackerRank&logoColor=white"/>
-  </a>
-  
-  <a href="https://www.codechef.com/users/Alamin972731" target="_blank"> 
-   <img alt="CodeChef" src="https://img.shields.io/badge/CodeChef-%23964B00.svg?logo=CodeChef&logoColor=white">
-  </a>
-  
-  <a href="https://codeforces.com/profile/alamin.ai" target="_blank">
-    <img alt="Codeforces" src="https://img.shields.io/badge/Codeforces-445f9d?logo=Codeforces&logoColor=white">
-  </a> 
-  
-  <a href="https://www.hackerearth.com/@al107" target="_blank"> 
-    <img alt="HackerEarth" src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?logo=HackerEarth&logoColor=blue"/>
-  </a>
-  
-  <a href="https://leetcode.com/alamin11/" target="_blank"> 
-    <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=d16c06"/>
-  </a>
 </p>
 
 
